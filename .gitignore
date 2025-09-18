@@ -1,0 +1,27 @@
+    # Binaries for programs and plugins
+    *.exe
+    *.dll
+    *.so
+    *.dylib
+    
+    # Test binaries
+    *_test
+    
+    # Go workspace file
+    go.work
+    
+    # Dependency directories (remove the 'vendor/' line below if you are not using modules)
+    vendor/
+    
+    # Compiled Go binaries
+    *.o
+    
+    # Logs
+    *.log
+    
+    # IDE files (e.g., VS Code)
+    .vscode/
+    
+    # OS generated files
+    .DS_Store
+    Thumbs.db
